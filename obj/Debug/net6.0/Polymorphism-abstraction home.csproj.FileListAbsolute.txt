@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\bin\Debug\net6.0\Polymorphism-abstraction home.exe
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\bin\Debug\net6.0\Polymorphism-abstraction home.deps.json
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\bin\Debug\net6.0\Polymorphism-abstraction home.runtimeconfig.json
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\bin\Debug\net6.0\Polymorphism-abstraction home.dll
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\bin\Debug\net6.0\Polymorphism-abstraction home.pdb
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.AssemblyInfo.cs
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.dll
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\refint\Polymorphism-abstraction home.dll
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.pdb
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\Polymorphism-abstraction home.genruntimeconfig.cache
+C:\Users\User\source\repos\Classes\Polymorphism-abstraction home\obj\Debug\net6.0\ref\Polymorphism-abstraction home.dll
